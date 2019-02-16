@@ -1,0 +1,118 @@
+AADCE,Burin,Burin,47.0828410,-55.1752720
+AAEOU,Corner Brook,Corner Brook,48.9521,-57.922167
+ABEFS,St. John's,St. John's,47.565833333,-52.72527777
+ABFQA,Labrador City,Labrador City,52.9518,-66.9156
+ABYRK,Grand Falls - Windsor,Grand Falls - Windsor,48.93,-55.66
+BAARG,Charlottetown,Charlottetown,46.240277777,-63.13472222
+BADSZ,Summerside (Wellington),Summerside (Wellington),46.45,-64.0
+BAEMV,St. Peters Bay,St. Peters Bay,46.416666666,-62.58333333
+CAORH,Greenwood,Greenwood,44.969167,-64.929722
+CAPHL,Halifax Downtown,centre-ville d¡¯Halifax,44.647401,-63.590651
+CASWE,Kentville,Kentville,45.0775,-64.49527777
+CATHI,Lake Major,Lake Major,44.71338,-63.467261
+CBDPK,Pictou,Pictou,45.675833333,-62.70916666
+CBELL,Port Hawkesbury,Port Hawkesbury,45.6161111,-61.356111
+CBLGX,Sydney,Sydney,46.138055555,-60.19527777
+CBUCG,Halifax,Halifax,44.64625,-63.57392
+DADHJ,Moncton,Moncton,46.115833,-64.803056
+DAEGW,Saint John,Saint John,45.259166666,-66.03888888
+DAFMJ,Fredericton,Fredericton,45.945278,-66.666667
+DAFQX,Bathurst,Bathurst,47.6261,-65.6283
+DAHEI,Campbellton,Campbellton,47.999336,-66.683511
+DALZZ,Edmunston,Edmunston,47.377222,-68.294444
+DBEDJ,Miramichi,Miramichi,47.0041999,-65.4666999
+EGLTT,Gatineau,Gatineau,45.483333333,-75.65
+EHHUN,Montr¨¦al,Montr¨¦al,45.516666666,-73.65
+EHTWR,Quebec,Qu¨¦bec,46.816666666,-71.21666666
+FAFFD,Barrie,Barrie,44.39222,-79.70417
+FALIF,Brampton,Brampton,43.688333333,-79.76083333
+FALJI,Brantford,Brantford,43.1569444,-80.25749
+FAMXK,Burlington,Burlington,43.37,-79.81416666
+FAYJG,Grand Bend,Grand Bend,43.3025,-81.7563889
+FAYVQ,Ottawa Downtown,centre-ville d'Ottawa,45.433333,-75.666667
+FAZKI,Dorset,Dorset,45.224278,-78.932944
+FBKKK,Guelph,Guelph,43.53571,-80.22899
+FBLJL,Hamilton Downtown,centre-ville de Hamilton,43.24504,-79.8418
+FBLKS,Hamilton Mountain,Hamilton Mountain,43.23039,-79.82235
+FCAEN,London,London,42.9674999,-81.2325
+FCCOT,Cornwall,Cornwall,45.0263889,-74.7263889
+FCFUU,North Bay,North Bay,46.314444,-79.459167
+FCGKZ,Oakville,Oakville,43.456388888,-79.71388888
+FCIBD,Port Stanley,Port Stanley,42.6663888,-81.2108334
+FCKTB,Toronto West,Toronto Ouest,43.71823,-79.56589
+FCNJT,Windsor West,Windsor Ouest,42.2830556,-83.0594444
+FCTOV,Sudbury,Sudbury,46.5011111,-80.9775
+FCWFX,Thunder Bay,Thunder Bay,48.4013889,-89.2677778
+FCWOV,Tiverton,Tiverton,44.2669444,-81.5444444
+FCWYG,Toronto Downtown,centre-ville de Toronto,43.6758333,-79.3969444
+FDATE,Windsor Downtown,centre-ville de Windsor,42.3081,-82.99182
+FDCHU,Hamilton West,Hamilton Ouest,43.2644444,-79.9027778
+FDEGT,Windsor,Windsor,42.302222222,-82.99361111
+FDGED,Newmarket,Newmarket,44.058055555,-79.45833333
+FDGEJ,Peterborough,Peterborough,44.3011111,-78.3333333
+FDGJS,Ottawa Central,Ottawa Central,45.37873,-75.73137
+FDJFN,St Catharines,St Catharines,43.160056,-79.23475
+FDMOP,Oshawa,Oshawa,43.900555555,-78.85722222
+FDQBU,Toronto East,Toronto Est,43.7558333,-79.2308334
+FDQBX,Toronto North,Toronto Nord,43.76205,-79.41026
+FDSUS,Parry Sound,Parry Sound,45.3538889,-80.0361111
+FDZCP,Sault Ste. Marie,Sault Ste. Marie,46.5588888,-84.3469444
+FEAKO,Mississauga,Mississauga,43.585555555,-79.65722222
+FEARV,Sarnia,Sarnia,42.9813889,-82.3177777
+FEBWC,Kitchener,Kitchener,43.4186111,-80.4727778
+FEUTC,Chatham,Chatham,42.43396,-82.12876
+FEUZB,Toronto,Toronto,43.741666666,-79.37333333
+FEVJR,Kingston,Kingston,44.3066666,-76.4163888
+FEVJS,Belleville,Belleville,44.2566666,-77.3697222
+FEVJV,Petawawa,Petawawa,45.8838889,-77.3177778
+FEVNS,Hamilton,Hamilton,43.242778,-79.935
+FEVNT,Ottawa,Ottawa,45.434444444,-75.67694444
+GADMZ,Brandon,Brandon,49.846944444,-99.95222222
+GBEIN,Winnipeg,Winnipeg,49.884444444,-97.14638888
+HAHJJ,Saskatoon,Saskatoon,52.139722222,-106.6861111
+HAIMP,Regina,Regina,50.454722222,-104.6066666
+HAPKT,Swift Current,Swift Current,50.285833,-107.81689
+HAPNV,Prince Albert,Prince Albert,53.216111,-105.714722
+IABOA,Drayton Valley,Drayton Valley,53.2241666,-114.9808333
+IACMP,Edmonton,Edmonton,53.534444444,-113.4902777
+IADGP,Lethbridge,Lethbridge,49.693611111,-112.8419444
+IAEFD,Cold Lake,Cold Lake,54.45,-110.166667
+IAEJS,Red Deer,Red Deer,52.268611111,-113.8102777
+IAFEW,Fort Chipewyan,Fort Chipewyan,58.714444444,-111.1583333
+IAFFF,Fort McKay,Fort McKay,57.181111111,-111.5997222
+IAFFI,Fort McMurray,Fort McMurray,56.726388888,-111.3802777
+IAFFM,Fort Saskatchewan,Fort Saskatchewan,53.711111111,-113.2177777
+IAHMM,Grande Prairie,Grande Prairie,55.170833333,-118.7961111
+IAIUC,Medicine Hat,Medicine Hat,50.040833333,-110.6766666
+IAKID,Calgary,Calgary,51.045833333,-114.0575
+IAKRM,Spruce Grove,Spruce Grove,53.5538888,-113.9022222
+JABNO,Central Fraser Valley,Bas-Fraser - centre,49.058333333,-122.25
+JAFNW,Kamloops,Kamloops,50.673333333,-120.3272222
+JAFUV,Central Okanagan,Okanagan - centre,49.883333333,-119.4833333
+JAGPB,Fort St. John,Fort St. John,56.2525,-120.846667
+JAHJY,Courtenay,Courtenay,49.6833,-124.9833
+JAQAL,Nanaimo / Parksville,Nanaimo / Parksville,49.166666666,-123.9333333
+JAZBU,Metro Vancouver - SE,Vancouver-m¨¦tro - sud-est,49.116666666,-122.75
+JBBWA,Duncan,Duncan,48.783333,-123.7
+JBHJG,South Okanagan,Okanagan - sud,49.033333333,-119.45
+JBLVS,Prince George,Prince George,53.916666666,-122.75
+JBLXS,WestShore,WestShore,48.516666666,-123.4333333
+JBMQO,Smithers,Smithers,54.779167,-127.176111
+JBNTS,Quesnel,Quesnel,53.0,-122.5
+JBOAP,North Okanagan,Okanagan - nord,50.258333333,-119.2666666
+JBOBQ,Victoria / Saanich,Victoria / Saanich,48.433333333,-123.3666666
+JBRIK,Metro Vancouver - SW,Vancouver-m¨¦tro - sud-ouest,49.168,-123.126
+JBTMB,Williams Lake,Williams Lake,52.141666666,-122.1416666
+JBXCK,Terrace,Terrace,54.516389,-128.599722
+JBXHZ,Metro Vancouver - NE,Vancouver-m¨¦tro - nord-est,49.233333333,-122.6833333
+JCAAC,Castlegar,Castlegar,49.324722,-117.666667
+JCJHI,Whistler,Whistler,50.116666666,-122.9666666
+JCUYZ,Comox,Comox,49.6830556,-124.9347222
+JCVCC,Eastern Fraser Valley,Bas-Fraser - est,49.175,-121.9416666
+JCVCJ,Squamish,Squamish,49.75,-123.133333
+KAHFT,Whitehorse,Whitehorse,60.6961111,-135.08083
+LAILN,Fort Smith,Fort Smith,60.0053,-111.8829
+JDATF,Metro Vancouver - NW,Vancouver-m¨¦tro - nord-ouest,49.25,-123.1166666
+LALNA,Inuvik,Inuvik,68.35702,-133.71405
+LBAMG,Yellowknife,Yellowknife,62.4536,-114.37
+OATRP,Iqaluit,Iqaluit,63.75,-68.5166666
